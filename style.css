@@ -1,0 +1,71 @@
+.nav-custom{
+   font-size: 20px;
+   margin-left: auto;
+}
+.event-custom{
+    color: white;
+    margin-right: 380px;
+}
+
+.event-custom2{
+    color: white;
+}
+
+.event{
+    color: white;
+    margin-right: 500px;
+    font-size: 16px;
+}
+
+.margin{
+   margin-right: 20px;
+}
+
+footer{
+    color:white;
+    margin-top: auto;
+}
+
+.custom-footer{
+    margin-top: 20px;
+}
+
+.font-color {
+    color:white;
+}
+
+.font{
+    font-family:"courier new";
+}
+
+
+.dashboard-body{
+    background-image: url("bike1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+
+#place {
+margin-bottom: 20px;
+padding: 10px;
+border: 1px solid #ccc;
+}
+#place img {
+ max-width: 100%;
+height: auto;
+}
+#map {
+height: 400px;
+width: 100%;
+}
+
+
+.event-card {
+    margin-bottom: 20px;
+}
